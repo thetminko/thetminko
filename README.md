@@ -2,7 +2,7 @@
 
 **Senior Full Stack Engineer** · Ontario, Canada
 
-Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at Nomad Fuel, architecting a high-performance, fault-tolerant real-time logistics platform. Previously Central Engineering Lead at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
+Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at Nomad Fuel, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform with Next.js and NestJS. Previously Central Engineering Lead at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
 
 > "Quality is always better than quantity."
 
@@ -20,7 +20,7 @@ Engineering leader with 10+ years of experience building resilient, scalable web
 ### Experience
 
 **Senior Full Stack Engineer** — Nomad Fuel *(current)*  
-Architecting real-time logistics infrastructure with Next.js and NestJS.
+Building a full-stack fuel management platform with Next.js and NestJS.
 
 **Central Engineering Lead** — GatherSG, GovTech Singapore  
 Technical authority across the GatherSG ecosystem; standardized engineering practices across multiple government solutions.
