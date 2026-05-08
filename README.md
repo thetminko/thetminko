@@ -30,3 +30,4 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 ### Links
 
 - [thetminko.com](https://www.thetminko.com)
+- [LinkedIn](https://www.linkedin.com/in/thetminko/)
