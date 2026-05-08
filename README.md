@@ -26,17 +26,6 @@ Engineering leader with 10+ years of experience building resilient, scalable web
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thetminko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetminko&layout=compact&theme=github_dark&hide_border=true" height="160" />
-
-</div>
-
----
-
 ## Experience
 
 **Senior Full Stack Engineer** — Nomad Fuel *(current)*  
