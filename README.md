@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=200&section=header&text=Thet%20Min%20Ko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Thet+Min+Ko+%F0%9F%91%8B;Senior+Full+Stack+Engineer;10%2B+Years+of+Building+at+Scale" alt="Typing SVG" />
-
-**Ontario, Canada** · Fuel Tech · Engineering Leadership
-
-*"Quality is always better than quantity."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=10%2B+Years+of+Building+at+Scale;Fuel+Tech+%7C+Engineering+Leadership;Ontario%2C+Canada" alt="Typing SVG" />
 
 </div>
 
@@ -13,6 +11,8 @@
 ## About
 
 Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at **Nomad Fuel**, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform. Previously **Central Engineering Lead** at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
+
+> *"Quality is always better than quantity."*
 
 ---
 
@@ -24,6 +24,26 @@ Engineering leader with 10+ years of experience building resilient, scalable web
 
 **Also:** React Native · Expo
 
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=thetminko&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetminko/thetminko/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetminko/thetminko/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thetminko/thetminko/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -51,3 +71,5 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 
 - [thetminko.com](https://www.thetminko.com)
 - [LinkedIn](https://www.linkedin.com/in/thetminko/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" width="100%" />
