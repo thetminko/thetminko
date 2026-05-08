@@ -31,6 +31,8 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 
 - Frontend Developer (React) — HackerRank *(Mar 2025)*
 - Security Engineering on AWS — Trainocate Singapore *(Jul 2024)*
+- AWS Certified Solutions Architect – Associate — Amazon Web Services *(Apr 2019)*
+- Java — TestDome *(Jun 2018)*
 
 ---
 
