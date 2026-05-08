@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=10%2B+Years+of+Building+at+Scale;Fuel+Tech+%7C+Engineering+Leadership;Previously+Central+Tech+Lead+%7C+GatherSG+%28GovTech+Singapore%29;Ontario%2C+Canada" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=10%2B+Years+of+Building+at+Scale;Fuel+Tech+%7C+Engineering+Leadership;Previously+Central+Tech+Lead;GatherSG+%28GovTech+Singapore%29;Ontario%2C+Canada" alt="Typing SVG" />
 
 </div>
 
