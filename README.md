@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=200&section=header&text=Thet%20Min%20Ko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=200&section=header&text=Thet%20Min%20Ko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=10%2B+Years+of+Building+at+Scale;Fuel+Tech+%7C+Engineering+Leadership;Ontario%2C+Canada" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=10%2B+Years+of+Building+at+Scale;Fuel+Tech+%7C+Engineering+Leadership;Ontario%2C+Canada" alt="Typing SVG" />
 
 </div>
 
@@ -72,4 +72,4 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 - [thetminko.com](https://www.thetminko.com)
 - [LinkedIn](https://www.linkedin.com/in/thetminko/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=120&section=footer" width="100%" />
