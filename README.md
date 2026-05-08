@@ -1,23 +1,43 @@
-## Hi, I'm Thet Min Ko
+<div align="center">
 
-**Senior Full Stack Engineer** · Ontario, Canada
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Thet+Min+Ko+%F0%9F%91%8B;Senior+Full+Stack+Engineer;10%2B+Years+of+Building+at+Scale" alt="Typing SVG" />
 
-Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at Nomad Fuel, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform with Next.js and NestJS. Previously Central Engineering Lead at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
+**Ontario, Canada** · Fuel Tech · Engineering Leadership
 
-> "Quality is always better than quantity."
+*"Quality is always better than quantity."*
 
----
-
-### Tech Stack
-
-**Backend** — Node.js · NestJS · TypeScript  
-**Frontend** — React.js · Next.js · React Native  
-**Databases** — PostgreSQL · MySQL · Redis  
-**Infrastructure** — AWS · GCP · Docker · Terraform · Prisma
+</div>
 
 ---
 
-### Experience
+## About
+
+Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at **Nomad Fuel**, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform. Previously **Central Engineering Lead** at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mysql,redis,docker,aws,gcp,terraform,prisma&theme=dark" />
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thetminko&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetminko&layout=compact&theme=github_dark&hide_border=true" height="160" />
+
+</div>
+
+---
+
+## Experience
 
 **Senior Full Stack Engineer** — Nomad Fuel *(current)*  
 Building a full-stack fuel management platform with Next.js and NestJS.
@@ -27,7 +47,7 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 
 ---
 
-### Certifications
+## Certifications
 
 - Frontend Developer (React) — HackerRank *(Mar 2025)*
 - Security Engineering on AWS — Trainocate Singapore *(Jul 2024)*
@@ -36,7 +56,7 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 
 ---
 
-### Links
+## Links
 
 - [thetminko.com](https://www.thetminko.com)
 - [LinkedIn](https://www.linkedin.com/in/thetminko/)
