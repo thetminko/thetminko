@@ -27,6 +27,13 @@ Technical authority across the GatherSG ecosystem; standardized engineering prac
 
 ---
 
+### Certifications
+
+- Frontend Developer (React) — HackerRank *(Mar 2025)*
+- Security Engineering on AWS — Trainocate Singapore *(Jul 2024)*
+
+---
+
 ### Links
 
 - [thetminko.com](https://www.thetminko.com)
