@@ -20,7 +20,7 @@ Engineering leader with 10+ years of experience building resilient, scalable web
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,postgres,mysql,redis,docker,aws,gcp,terraform,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,react,nextjs,expo,postgres,mysql,redis,docker,aws,gcp,terraform,prisma&theme=dark" />
 
 </div>
 
