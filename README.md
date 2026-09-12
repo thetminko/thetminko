@@ -10,7 +10,7 @@
 
 ## About
 
-Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at **Nomad Fuel**, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform. Previously **Central Engineering Lead** at GatherSG (GovTech Singapore), where I unified a multi-repo government tech ecosystem.
+Engineering leader with 10+ years of experience building resilient, scalable web systems. Currently leading engineering at **Nomad Fuel**, a fuel tech company, architecting a high-performance, fault-tolerant full-stack platform. Previously **Central Engineering Lead** at GatherSG (GovTech Singapore), where I lead a multi-repo government tech ecosystem with multiple project teams.
 
 > *"Quality is always better than quantity."*
 
