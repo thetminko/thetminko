@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=200&section=header&text=Thet%20Min%20Ko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=200&section=header&text=Thet%20Min%20Ko&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Lead&descAlignY=60&descAlign=50" width="100%" />
 
 <div align="center">
 
