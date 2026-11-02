@@ -10,7 +10,7 @@
 
 ## About
 
-Engineering leader with 10+ years of experience building resilient, scalable web systems. Most recently Engineering Lead | Founding Engineer at **Nomad** (Nomad Fuel, fuel tech), leading a team of six engineers. Previously Central Technical Lead at **Ufinity**, delivering GovTech Singapore's GatherSG platform.
+Engineering leader with 10+ years of experience building resilient, scalable web systems. Most recently Engineering Lead | Founding Engineer at **Nomad Inc.**, leading a team of six engineers on the Nomad Fuel platform. Previously Central Technical Lead at **Ufinity**, delivering GovTech Singapore's GatherSG platform.
 
 > *"Quality is always better than quantity."*
 
@@ -50,22 +50,22 @@ Engineering leader with 10+ years of experience building resilient, scalable web
 
 ## Experience
 
-**Engineering Lead | Founding Engineer** — Nomad, Toronto *(Oct 2026)*
+**Engineering Lead | Founding Engineer**, Nomad Inc., Toronto *(Oct 2026)*
 
-**Senior Full Stack Engineer | Founding Engineer** — Nomad *(Nov 2025 – Oct 2026)*  
+**Senior Full Stack Engineer | Founding Engineer**, Nomad Inc. (Nomad Fuel Inc. until Jun 2026) *(Nov 2025 – Oct 2026)*  
 Built the Nomad Fuel platform (Next.js, NestJS, React Native) and the driver app, live on iOS and Android.
 
-**Full Stack Engineer 2** — Nomad *(Jul 2025 – Oct 2025)*
+**Full Stack Engineer 2**, Nomad Fuel Inc. *(Jul 2025 – Oct 2025)*
 
-**Software Engineer Specialist** (Central Technical Lead, GatherSG, client: GovTech Singapore) — Ufinity Pte Ltd *(Sep 2022 – Feb 2025)*
+**Software Engineer Specialist** (Central Technical Lead, GatherSG, client: GovTech Singapore), Ufinity Pte Ltd *(Sep 2022 – Feb 2025)*
 
-**Lead Software Engineer** — Ufinity Pte Ltd *(Nov 2021 – Aug 2022)*
+**Lead Software Engineer**, Ufinity Pte Ltd *(Nov 2021 – Aug 2022)*
 
-**Senior Software Engineer 2** — Ufinity Pte Ltd *(Mar 2020 – Oct 2021)*
+**Senior Software Engineer 2**, Ufinity Pte Ltd *(Mar 2020 – Oct 2021)*
 
-**Senior Software Engineer** — Ufinity Pte Ltd *(Sep 2018 – Feb 2020)*
+**Senior Software Engineer**, Ufinity Pte Ltd *(Sep 2018 – Feb 2020)*
 
-**Software Engineer** — Ufinity Pte Ltd *(Apr 2016 – Aug 2018)*
+**Software Engineer**, Ufinity Pte Ltd *(Apr 2016 – Aug 2018)*
 
 ---
 
